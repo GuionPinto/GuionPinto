@@ -8,7 +8,7 @@
 <h4> &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,c,c++,python" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,c,cpp,python" />
   </a>
 </p>
 
