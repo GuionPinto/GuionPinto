@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**GuionPinto/GuionPinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 👂 My name is Pedro
+* 🔭 I’m currently working on Embedded Systems
+* 🌱 I’m currently learning Embedded Systems Engineer
+* 🤝 I’m looking to collaborate on Open Source Projects
+* 📫 How to reach me: pedrobenjamin001@gmail.com
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,c,c++,python" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuionPinto)](https://github.com/anuraghazra/github-readme-stats)
