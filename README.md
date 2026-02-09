@@ -5,7 +5,7 @@
 * 🌱 I’m currently learning Embedded Systems Engineer
 * 🤝 I’m looking to collaborate on Open Source Projects
 * 📫 How to reach me: pedrobenjamin001@gmail.com
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h1> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode,c,c++,python" />
@@ -13,4 +13,4 @@
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuionPinto)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=GuionPinto)](https://github.com/anuraghazra/github-readme-stats)
